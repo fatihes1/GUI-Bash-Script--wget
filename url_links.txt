@@ -1,0 +1,4 @@
+http://ekampus.btu.edu.tr/pluginfile.php/245503/mod_resource/content/1/Shell_scripting-1.pdf
+http://ekampus.btu.edu.tr/pluginfile.php/245505/mod_resource/content/1/Shell_scripting-2.pdf
+http://ekampus.btu.edu.tr/pluginfile.php/245508/mod_resource/content/1/Shell_scripting-3.pdf
+http://ekampus.btu.edu.tr/pluginfile.php/245509/mod_resource/content/1/Shell_scripting-4.pdf
