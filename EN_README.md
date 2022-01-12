@@ -43,21 +43,29 @@ You can make sure that the downloads are successful or not by typing the followi
 
 ## Program Images
 - The options available to the user are as follows:
+
 ![01](https://user-images.githubusercontent.com/54971670/149222447-77844b5b-14b4-4580-aa13-de741ca3f0d0.PNG)
  
- - The window where inputs such as file URL information from the user are received:
- ![02](https://user-images.githubusercontent.com/54971670/149222454-33a7a839-ce95-4f28-bc60-e4fd886967e8.PNG)
+- The window where inputs such as file URL information from the user are received:
+
+![02](https://user-images.githubusercontent.com/54971670/149222454-33a7a839-ce95-4f28-bc60-e4fd886967e8.PNG)
 
 - The window that appears in case of a problem with the download:
+
 ![03](https://user-images.githubusercontent.com/54971670/149222455-373778b5-664c-4278-97e2-dd1df306bef5.PNG)
 
 - The following window will appear when the download is successfully completed:
+
 ![04](https://user-images.githubusercontent.com/54971670/149222456-e7b8c56b-7d37-4591-b359-a01c26bb3347.PNG)
 
-- During the download of large files, the `progress bar` window appears until the download is complete:![05](https://user-images.githubusercontent.com/54971670/149222458-4216c467-4eeb-4dbb-9867-1af4fca8952c.PNG)
+- During the download of large files, the `progress bar` window appears until the download is complete:
+
+![05](https://user-images.githubusercontent.com/54971670/149222458-4216c467-4eeb-4dbb-9867-1af4fca8952c.PNG)
 
 - The window that appears when the user wants to know the `wget` version:
+
 ![06](https://user-images.githubusercontent.com/54971670/149222459-e5f8c75c-464d-486d-9e36-137424a42c03.PNG)
 
 - The window that appears when the user wants to exit the program:
+
 ![07](https://user-images.githubusercontent.com/54971670/149222461-cce8df13-92ba-4d9c-806b-ba56ecb8a77e.PNG)
