@@ -38,22 +38,29 @@ Yerel makinenizde `zenity` ve `wget` kurulmuş olmalıdır. Bu kurulumları aşa
 
 ## Program Görüntüleri 
 - Kullanıcıya sunulan seçenekler (opsiyonlar) aşağıdaki gibidir:
+
 ![01](https://user-images.githubusercontent.com/54971670/149222447-77844b5b-14b4-4580-aa13-de741ca3f0d0.PNG)
  
- - Kullanıcıdan dosya URL bilgisi gibi girdilerin alındığı pencere:
- ![02](https://user-images.githubusercontent.com/54971670/149222454-33a7a839-ce95-4f28-bc60-e4fd886967e8.PNG)
+- Kullanıcıdan dosya URL bilgisi gibi girdilerin alındığı pencere:
+
+![02](https://user-images.githubusercontent.com/54971670/149222454-33a7a839-ce95-4f28-bc60-e4fd886967e8.PNG)
 
 - İndirme işleminde bir sorun oluşması durumunda ekrana gelen pencere:
+
 ![03](https://user-images.githubusercontent.com/54971670/149222455-373778b5-664c-4278-97e2-dd1df306bef5.PNG)
 
 - İndirme başarıyla tamamlandığında ekrana gelecek olan pencere:
+
 ![04](https://user-images.githubusercontent.com/54971670/149222456-e7b8c56b-7d37-4591-b359-a01c26bb3347.PNG)
 
 - Boyutu yüksek olan dosyaların indirilmesi sırasında `progresbar` penceresi , indirme tamamlanana kadar görünmektedir:
+
 ![05](https://user-images.githubusercontent.com/54971670/149222458-4216c467-4eeb-4dbb-9867-1af4fca8952c.PNG)
 
 - Kullanıcı `wget` sürümünü öğrenmek istediğinde ekrana gelen pencere:
+
 ![06](https://user-images.githubusercontent.com/54971670/149222459-e5f8c75c-464d-486d-9e36-137424a42c03.PNG)
 
-- Kullanıcı programdan çıkış yapmak istediğinde ekrana gelen pencere : 
+- Kullanıcı programdan çıkış yapmak istediğinde ekrana gelen pencere :
+
 ![07](https://user-images.githubusercontent.com/54971670/149222461-cce8df13-92ba-4d9c-806b-ba56ecb8a77e.PNG)
