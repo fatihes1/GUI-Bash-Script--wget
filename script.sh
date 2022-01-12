@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 Status () {
     if [ $1 == 0 ]
     then
@@ -25,7 +25,7 @@ then
 	exit 1
 fi
 
-if [ $chosen == "Normal_İndirme" ]
+if [ "$chosen" == "Normal_İndirme" ]
 then
     input="$(zenity --entry --title="Normal İndirme" --width 800 --text="İndirmek istediğiniz dosyanın URL bilgisini giriniz.")"
     wget $input | zenity --progress --title="Wget Inderme Aracı - İndiriliyor" --text="Dosya(lar) İndiriliyor" --width 600  --auto-close --pulsate --no-cancel
