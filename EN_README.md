@@ -1,13 +1,13 @@
 ﻿# GUI Bash Script --wget
 
 Bash script programming - GUI for wget command
-## What is the GUI?
+## :computer: What is the GUI?
 
 GUI (Graphical User Interface) are designs developed to help electronic devices use icons, icons and other visual graphics. In old generation computers and electronic devices using command-based operating system before GUI, command line was used to perform any operation. Users were performing every operation on the computer using the keyboard and commands.
 
 Later, in 1981, a group of Alan Kay, Douglas Engelbart and a group of researchers developed the first GUI in Xerox PARC so that users could use personal computers more comfortably.
 
-## What is the wget Command??
+## :arrow_down: What is the wget Command??
 
 
 Wget is the non-interactive network downloader which is used to download files from the server even when the user has not logged on to the system and it can work in the background without hindering the current process.  
@@ -21,7 +21,7 @@ Wget is the non-interactive network downloader which is used to download files f
 -   wget has been designed for robustness over slow or unstable network connections; if a download fails due to a network problem, it will keep retrying until the whole file has been retrieved. If the server supports resuming, it will instruct the server to continue the download from where it left off.
 - The simplest syntax is as follows: `wget [OPTIONS] [URL]`
 
-## Requirements
+## :floppy_disk: Requirements
 You must have `zenity` and `wget` installed on your local machine. You can do these installations using the command lines mentioned below. Don't forget to update your apt-get package lists with the `sudo apt-get update` command before running the following command lines. Doing so will allow you to download the latest version of `wget`.
 
 - `sudo apt-get install zenity`
@@ -32,7 +32,7 @@ You can make sure that the downloads are successful or not by typing the followi
 - `wget --version`
 - `zenity --version`
 
-## Installation & Usage
+## :mag_right: Installation & Usage
 
 - In the terminal you opened in a directory, download a clone of the repo to your local machine with the following command line: 
 -- `https://github.com/fatihes1/GUI-Bash-Script--wget.git`
@@ -41,7 +41,7 @@ You can make sure that the downloads are successful or not by typing the followi
 - The program is run with the `./script.sh` or `bash script.sh` command.
 - After this process, the required operations (file URL information, etc.) are given as input to the program in the user interface of the program and the program runs the necessary functions.
 
-## Program Images
+## :framed_picture: Program Images
 - The options available to the user are as follows:
 
 ![01](https://user-images.githubusercontent.com/54971670/149222447-77844b5b-14b4-4580-aa13-de741ca3f0d0.PNG)
