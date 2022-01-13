@@ -4,12 +4,12 @@ Bash script programming - GUI for wget command
 
 :movie_camera: Kodların anlatımı ve script dosyasının kullanımı için hazırlanan videoya [buraya](https://www.youtube.com/watch?v=g921UNfYXIo) tıklayarak ulaşabilirsiniz.
 
-## GUI Nedir?
+## :computer: GUI Nedir?
 **GUI** (Graphical User Interface), Grafiksel Kullanıcı Arayüzü, elektronik cihazların simgeler, ikonlar ve diğer görsel grafikler yardımıyla kullanmasına yardımcı olması amacıyla geliştirilmiş tasarımlardır. GUI öncesi komut bazlı işletim sistemi kullanılan eski nesil bilgisayarlar ve elektronik cihazlarda herhangi bir işlemi gerçekleştirmek için komut satırı kullanılıyordu. Kullanıcılar bilgisayar üzerindeki her işlemi  klavye  üzerinden ve komutları kullanarak gerçekleştiriyordu.
 
 Daha sonra kullanıcıların daha rahat kişisel bilgisayar kullanabilmesi için  **1981** yılında aralarında  _Alan Kay_,  _Douglas Engelbart_ ve bir grup araştırmacının yer aldığı grup  **Xerox PARC**'da  ilk GUI'yi geliştirmiştir.
 
-## wget Komutu Nedir?
+## :arrow_down: wget Komutu Nedir?
 
 Wget, kullanıcı sistemde oturum açmamış olsa bile sunucudan dosya indirmek için kullanılan ve mevcut işlemi engellemeden arka planda çalışabilen, etkileşimli olmayan ağ indiricisidir.
 
@@ -19,7 +19,7 @@ Wget, kullanıcı sistemde oturum açmamış olsa bile sunucudan dosya indirmek 
 - wget, yavaş veya kararsız ağ bağlantılarında **sağlamlık** için tasarlanmıştır; bir ağ sorunu nedeniyle indirme başarısız olursa, *tüm dosya alınana kadar yeniden denemeye devam eder*. Sunucu devam etmeyi destekliyorsa, sunucuya indirmeye kaldığı yerden devam etmesi talimatını verecektir.
 - En basit söz dizimi şu şekildedir : `wget [OPTIONS] [URL]`
 
-## Gereksinimler
+## :floppy_disk: Gereksinimler
 Yerel makinenizde `zenity` ve `wget` kurulmuş olmalıdır. Bu kurulumları aşağıda belirtilen komut satırlarını kullanarak yapabilirsiniz. Aşağıdaki komut satırlarını çalıştırmadan önce `sudo apt-get update` komutu ile apt-get paket listelerinizi güncellemeyi unutmayınız. Bunu yapmak  `wget`'in son sürümünü indirmenize imkan sunar.
 
 - `sudo apt-get install zenity`
@@ -30,7 +30,7 @@ Yerel makinenizde `zenity` ve `wget` kurulmuş olmalıdır. Bu kurulumları aşa
 - `wget --version`
 - `zenity --version`
 
-## Kurulum & Kullanım
+## :mag_right: Kurulum & Kullanım
 
 - Bir dizinde açtığınız terminalde aşağıdaki komut satırı ile repo'nun bir klonunu yerel makinenize indiriniz: 
 -- `https://github.com/fatihes1/GUI-Bash-Script--wget.git`
@@ -39,7 +39,7 @@ Yerel makinenizde `zenity` ve `wget` kurulmuş olmalıdır. Bu kurulumları aşa
 - `./script.sh` veya `bash script.sh` komutu ile program çalıştırılır.
 - Bu işlemden sonra program kullanıcı arayüzünde istenilen işlemler gereken gereksinimler (Dosya URL bilgisi vb. ) programa girdi olarak verilir ve program gerekli işlevleri çalıştırır.
 
-## Program Görüntüleri 
+## :framed_picture: Program Görüntüleri 
 - Kullanıcıya sunulan seçenekler (opsiyonlar) aşağıdaki gibidir:
 
 ![01](https://user-images.githubusercontent.com/54971670/149222447-77844b5b-14b4-4580-aa13-de741ca3f0d0.PNG)
