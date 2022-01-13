@@ -45,7 +45,6 @@ then
 elif [ "$chosen" == "Dosyadan Coklu Indirme" ]
 then
     input=`zenity --file-selection --title="Linkleri İçeren Dosyayı Seçiniz"`
-    echo $input
     wget -i "$input" | zenity --progress --title="Wget Inderme Aracı - İndiriliyor" --text="Dosya(lar) İndiriliyor" --width 600  --auto-close --pulsate --no-cancel
     Status ${PIPESTATUS[0]}
 elif [ "$chosen" == "Web Sayfasi Indirme" ]
